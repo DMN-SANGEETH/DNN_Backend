@@ -4,6 +4,6 @@ uvicorn
 python-multipart
 opencv-python
 pillow
-tensorflow-serving-api==2.5.0
 numpy
 gunicorn==20.1.0
+azure-functions
